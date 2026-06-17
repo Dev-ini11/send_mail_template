@@ -15,7 +15,7 @@ An elegant Python application that sends personalized, beautifully formatted HTM
 
 Here's what the birthday email looks like when received:
 
-![Birthday Email Screenshot](./image.png)
+![Birthday Email Screenshot](https://raw.githubusercontent.com/Dev-ini11/send_mail_template/main/image.png)
 
 ## 🏗️ Project Structure
 
